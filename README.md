@@ -44,7 +44,7 @@ Para ver um exemplo de como a estrutura deve ser seguida, consulte a pasta de ex
 
 ## Contato
 
-Se tiver dúvidas ou sugestões, entre em contato através dos [Issues](https://github.com/TEC041002/Codigo-Java/issues) no GitHub.
+Se tiver dúvidas ou sugestões, entre em contato através do nosso [Fórum de Dúvidas](https://github.com/TEC041002/Forum-de-duvidas-/discussions).
 
 ---
 
