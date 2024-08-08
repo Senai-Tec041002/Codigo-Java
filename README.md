@@ -40,7 +40,7 @@ Para ajudar a manter tudo organizado, siga esta estrutura de pastas:
 
 ## Exemplo
 
-Para ver um exemplo de como a estrutura deve ser seguida, consulte a pasta de exemplo: [contabancaria](https://github.com/TEC041002/Codigo-Java/src/contabancaria).
+Para ver um exemplo de como a estrutura deve ser seguida, consulte a pasta de exemplo: [contabancaria](https://github.com/TEC041002/Codigo-Java/tree/main/src/contabancaria).
 
 ## Contato
 
