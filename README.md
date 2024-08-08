@@ -1,51 +1,47 @@
 # Código Java
 
-Bem-vindo ao repositório "Código-Java"! Aqui, você pode compartilhar e explorar códigos Java e estruturas funcionais. Este espaço é dedicado ao desenvolvimento e troca de conhecimento sobre Java. 
+Bem-vindo ao repositório "Código-Java"! Aqui você pode compartilhar e explorar códigos Java e aprender sobre programação Java.
 
 ## Estrutura do Repositório
 
-Para manter a organização e facilitar a colaboração, siga a estrutura de pastas abaixo:
+Para ajudar a manter tudo organizado, siga esta estrutura de pastas:
 
-- `src/`: Pasta principal para o código fonte Java.
-  - `main/`: Contém o código principal da aplicação.
-    - `java/`: Código fonte Java, organizado em pacotes.
-  - `test/`: Contém os testes da aplicação.
+- `src/`: Onde fica o código fonte Java.
+  - `main/`: Código principal da aplicação.
+    - `java/`: Código Java, organizado em pacotes.
+  - `test/`: Onde ficam os testes da aplicação.
     - `java/`: Código de teste Java, organizado em pacotes.
-- `README.md`: Este arquivo de documentação.
+- `README.md`: Este arquivo que explica tudo.
 
 ## Regras para Postagem
 
 1. **Organização do Código**:
-   - Coloque o código fonte Java na pasta `src/main/java/`, seguindo a estrutura de pacotes adequada.
-   - Os testes devem ser colocados na pasta `src/test/java/`, com uma estrutura de pacotes correspondente ao código fonte.
+   - Coloque o código Java em `src/main/java/`, seguindo a estrutura de pacotes.
+   - Coloque os testes em `src/test/java/`, com a mesma estrutura de pacotes.
 
 2. **Nomenclatura de Pacotes**:
-   - Use uma nomenclatura de pacotes que siga a convenção Java, começando com o domínio invertido (ex.: `com.exemplo.projeto`).
+   - Use nomes de pacotes que sigam o padrão Java, começando com o domínio invertido (ex.: `com.exemplo.projeto`).
 
 3. **Documentação**:
-   - Adicione comentários e documentação ao seu código. Utilize Javadoc para descrever classes e métodos.
+   - Adicione comentários no seu código para explicar o que ele faz.
 
 4. **Testes**:
-   - Inclua testes unitários para o seu código. Utilize frameworks de teste como JUnit ou TestNG.
+   - Inclua testes para o seu código. Use ferramentas como JUnit para isso.
 
 5. **Estilo de Código**:
-   - Siga as convenções de codificação Java, como a [Java Code Conventions](https://docs.oracle.com/javase/tutorial/essential/).
+   - Siga as regras básicas de codificação Java, como as [Java Code Conventions](https://docs.oracle.com/javase/tutorial/essential/).
 
 6. **Commit e Mensagens**:
-   - Faça commits regulares e utilize mensagens descritivas e claras. Exemplo de mensagem de commit: `Adiciona classe de exemplo para manipulação de arquivos`.
+   - Faça commits regulares e escreva mensagens claras sobre o que você fez. Exemplo: `Adiciona classe de exemplo`.
 
 7. **Contribuições**:
-   - Se você deseja contribuir com novos códigos ou melhorias, faça um fork do repositório e envie um pull request. Certifique-se de que seu código esteja bem testado e documentado.
+   - Se você quiser ajudar com novos códigos ou melhorias, faça um fork do repositório e envie um pull request. Certifique-se de que seu código esteja bem testado e documentado.
 
-## Exemplos
-
-Para começar, você pode explorar alguns exemplos na pasta `src/main/java/com/exemplo/projeto` e `src/test/java/com/exemplo/projeto`.
 
 ## Contato
 
-Se tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue neste repositório.
+Se tiver dúvidas ou sugestões, repositório de dúvidas está funcionando.
 
 ---
 
-Obrigado por contribuir para a comunidade de Java! 🚀
-
+Obrigado por contribuir para a comunidade Java! 🚀
